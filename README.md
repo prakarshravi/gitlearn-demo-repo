@@ -12,3 +12,5 @@ Demo for github Intro video.
 
 ## Acknowledgement:
 Thank you so much for your awesome work!
+
+It is so cool to be able to finally learn how to use *version control* for programming.
